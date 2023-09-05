@@ -7,7 +7,7 @@ public class Main {
         fruitSet.add("Grape");
         fruitSet.add("Kiwi");
         fruitSet.add("Strawberry");
-        fruitSet.add("Kiwi");
+        fruitSet.add("Cherry");
 
         System.out.println("Set Example:");
         for (String fruit : fruitSet) {
